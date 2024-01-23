@@ -1,1 +1,2 @@
-#!/usr/bin/pyt
+#!/usr/bin/python3
+import python_for_me
